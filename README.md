@@ -1,1 +1,1 @@
-# Isogai_2025_iScience
+# Isogai-ARP23-Paper-2025

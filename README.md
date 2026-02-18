@@ -1,6 +1,6 @@
 # Isogai-ARP23-Paper-2025
 
-This repository contains code used in **Direct Arp2/3-vinculin binding is required for pseudopod extension, but only on compliant substrates and in 3D** by Tadamoto Isogai, Kevin M. Dean, Philippe Roudot, Evgenia V. Azarova, Kushal Bhatt, Meghan K. Driscoll, Shaina P. Royer, Nikhil Mittal, Bo-Jui Chang, Sangyoon J. Han, Reto Fiolka and Gaudenz Danuser. Additional information can be found in the methods section of the paper.
+This repository contains code used in [**Direct Arp2/3-vinculin binding is required for pseudopod extension, but only on compliant substrates and in 3D**](https://doi.org/10.1016/j.isci.2025.112623), *Iscience*, 2025, written by Tadamoto Isogai, Kevin M. Dean, Philippe Roudot, Evgenia V. Azarova, Kushal Bhatt, Meghan K. Driscoll, Shaina P. Royer, Nikhil Mittal, Bo-Jui Chang, Sangyoon J. Han, Reto Fiolka and Gaudenz Danuser. Additional information can be found in the methods section of the paper.
 
 Rather than using this repository directly, most users will find it more convenient to download stand-alone software packages with documentation, graphical user interfaces, and additional features from the [Danuser Lab software page](https://github.com/DanuserLab/). However, this repository contains example scripts and small modifications to facilitate batch processing on HPC systems that developers may find useful. Note that while the underlying packages are actively maintained and may be updated, code in this repository is provided as-is. This code was run using Matlab version 2020b.
 
